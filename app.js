@@ -1,4 +1,4 @@
-const { query } = require('express');
+const query = require('express');
 const Firebird = require('node-firebird');
 const fs = require('fs');
 
